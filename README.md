@@ -6,7 +6,7 @@
 -   CSS
 -   JavaScript
 
-![CIS 375](https://skillicons.dev/icons?i=cpp,java,cs,visualstudio,andriodstudio,docker,eclipse,hmtl,js,css)
+![CIS 375](https://skillicons.dev/icons?i=cpp,java,cs,visualstudio,androidstudio,docker,eclipse,html,js,css)
 
 <!--
 **fpiper08/fpiper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
