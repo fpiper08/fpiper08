@@ -1,6 +1,3 @@
-<!--
-**fpiper08/fpiper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
 ### Hi there 👋
 
 My name is Frank Piper, I am currently a student at Buffalo State University 
@@ -13,5 +10,6 @@ My name is Frank Piper, I am currently a student at Buffalo State University
 - 📫 How to reach me: [Buffalo State E-mail](mailto:piperfr01@buffalostate.edu), [Personal E-mail](mailto:fpiper08@gmail.com)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: There are Australian Aboriginal languages that don't have relative direction (left, right, etc) and instead use absolute cardinal direction instead. They can have a North and a South hand or an East and a West hand. 
+
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,visualstudio,androidstudio,docker,eclipse,html,js,css)
